@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+section{
+    background-color:rgba(145, 142, 142, 0.781);
+    border-radius: 20px;
+    height: 30rem;
+    width: 30rem;
+    box-shadow: 10px 5px 5px teal;
+}
+
+h1{
+    padding-top: 10px;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
