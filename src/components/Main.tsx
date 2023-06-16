@@ -1,3 +1,5 @@
+import "../css/styles.css";
+
 export const Main = () => {
   return (
     <main>

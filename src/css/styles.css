@@ -1,0 +1,3 @@
+.Hero {
+    @apply flex justify-center mt-2 bg-blue-200 flex-col items-center
+}
