@@ -1,5 +1,6 @@
 import { Nav } from "./components/Nav";
 import { Main } from "./components/Main";
+import { Footer } from './components/Footer';
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Nav />
       <Main />
+      <Footer />
     </>
   )
 }
